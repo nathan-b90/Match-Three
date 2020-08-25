@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2213a6570193543fc9f5ed05e53136d0, type: 3}
+  m_Name: Level 7
+  m_EditorClassIdentifier: 
+  Index: 7
+  GameBoard: {fileID: 6946604760482450739, guid: 848eca63b5700416fba4c8dcecd6ebe0,
+    type: 3}
+  ScoreGoal: 2500
+  LocksGoal: 0
+  RocksGoal: 14
+  MaximumMoves: 25
+  TileDistributionSettings: {fileID: 11400000, guid: 0feb745ea9afa473fbfcda162f4d85ba,
+    type: 2}
